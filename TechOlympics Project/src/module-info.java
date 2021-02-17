@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nicav
+ *
+ */
+module TechOlympicsProject {
+}
